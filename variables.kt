@@ -23,3 +23,7 @@ val num2: Short = 29999
 val num3: Int = 123456
 //Double
 val num4: Double= 10.55
+
+fun main(args : Array<String>){
+        println("Hello World  its me, $firstName with a $tShirt shirt and its $letter")
+        {
